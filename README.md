@@ -28,3 +28,7 @@ Use Visual Studio Code to perform git `stage`, `commit` and `push` actions to su
 1. Click the `...` icon next to the words, "Source Control" and select "Push" to perform the git `push` action. This will upload your work to your repository on GitHub.com.
 
 ![Pushing work in Visual Studio Code](./images/vscode_stage_commit_push.png)
+
+
+
+- .head(limit), .tail(limit), .sample(limit) functions to show some data from the dataset in series!!
